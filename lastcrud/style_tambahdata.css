@@ -1,0 +1,80 @@
+
+.kotakinput{
+        background-color: blue;
+        width: 500px;
+        margin-left: 200px;
+        padding: 30px;
+        border-radius: 20px;
+   
+}
+
+.inputnama{
+  margin-left: 30px;
+  margin-bottom: 30px;
+  width: 420px;
+  height: 50px;
+  font-size: 20px;
+  
+}
+
+.inputnim{
+  margin-left: 43px;
+  margin-bottom: 30px;
+  width: 420px;
+  height: 50px;
+  font-size: 20px;
+}
+
+.inputalamat{
+  margin-left: 23px;
+  margin-bottom: 30px;
+  width: 420px;
+  height: 50px;
+  font-size: 20px;
+}
+
+    
+.inputkelas{
+  margin-left: 30px;
+margin-bottom: 30px;
+width: 420px;
+height: 50px;
+font-size: 20px;
+}
+
+.inputfoto{
+  margin-left: 40px;
+  margin-bottom: 30px;
+  width: 420px;
+  height: 50px;
+  font-size: 20px;
+}
+
+
+
+.labelnama, .labelnim, .labelalamat,.labelkelas,.labelfoto {
+ color: white;
+}
+     
+ 
+.tombol_simpan{
+        background-color: burlywood;
+        width: 400px;
+        height: 40px;
+        border-radius: 15px;
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+        border: none;
+        margin-left: 50px;
+    }
+    
+    .tombol_simpan:hover{
+        background-color: red;
+    }
+    
+
+
+
+
+
